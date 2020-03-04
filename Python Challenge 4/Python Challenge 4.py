@@ -5,7 +5,6 @@ surl = "http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing="
 si = "96791"
 fs = urlopen(surl + si)
 innertext = fs.read()
-print(innertext)
 sn = str(int(innertext.split()[5]))
 
 for i in range(400):
