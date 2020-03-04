@@ -1,6 +1,7 @@
 import pickle
-f = open("banner.p", "rb")
-i = pickle.load(f)
-for n in i:
-    print(n)
-#print(i)
+
+out = open("banner.p", "rb")
+dict = pickle.load(out)
+for line in dict:
+    print("".join([k * v for k, v in line]))
+out.close()
