@@ -37,8 +37,9 @@ Written in Python 3.8 (May not work with newer Interpreter)
 
 ## Challenge 6
 - http://www.pythonchallenge.com/pc/def/channel.html
+- http://www.pythonchallenge.com/pc/def/hockey.html
 <br/>
 Written in Python 3.8 (May not work with newer Interpreter)
 
 ## Challenge 7
-- http://www.pythonchallenge.com/pc/def/hockey.html
+- http://www.pythonchallenge.com/pc/def/oxygen.html
